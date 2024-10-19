@@ -45,7 +45,8 @@
 
 The app icon is configured using adaptive and legacy icons to support various devices and screen densities.
 
-![1729369670372](image/README/1729369670372.png)
+![icons8-calculator-512](https://github.com/user-attachments/assets/195689f1-1a8d-400c-a120-95614dae69e5)
+
 
 **Source** - [icon.png](src="https://maxst.icons8.com/vue-static/icon/svg/hotKeyD.svg")
 
