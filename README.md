@@ -57,8 +57,4 @@ We welcome contributions and feedback! Feel free to open an issue or submit a pu
 
 - **Sarang S Nair**
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ⭐ If you like this project, give it a star to show your support!
