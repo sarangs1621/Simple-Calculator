@@ -11,8 +11,8 @@
 - 🖥️ **Real-time calculation display** for easy tracking of your operations.
 
 ## 📸Screenshots
-
-    ![1729368916614](image/README/1729368916614.jpg)![1729368928747](image/README/1729368928747.jpg)
+![WhatsApp Image 2024-10-20 at 1 44 04 AM](https://github.com/user-attachments/assets/2ee10148-479b-40c8-9b75-a121d011abc7)
+![WhatsApp Image 2024-10-20 at 1 44 07 AM](https://github.com/user-attachments/assets/f355ef79-4cee-4727-88cc-2e8b3dbf5c5f)
 
 ## 🚀Getting Started
 
